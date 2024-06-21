@@ -1,0 +1,10 @@
+{
+  "name": "json-server",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  },
+  "scripts": {
+    "copy": "cp db_nottouch.json db.json",
+    "start": "npx json-server --watch db.json --middlewares ./middlewares.js --port 3001"
+  }
+}

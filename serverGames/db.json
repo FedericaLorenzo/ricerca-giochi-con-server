@@ -1,0 +1,124 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "name": "Shadow Quest",
+      "genre": "Avventura",
+      "developer": "FantasyWorld Studios",
+      "publisher": "Epic Gaming",
+      "releaseDate": "2024-03-15",
+      "description": "Esplora mondi misteriosi pieni di magia e pericoli in questa epica avventura.",
+      "image": "./img/shadow_quest.webp",
+      "summary": "In 'Shadow Quest', il giocatore viene immerso in un'avventura fantastica ricca di enigmi, magia e sfide. Il mondo di gioco, vasto e dettagliato, offre una narrazione coinvolgente che spinge all'esplorazione di terre incantate e al combattimento contro creature oscure. L'elemento di puzzle si integra perfettamente con l'azione, creando un equilibrio che mantiene alta l'attenzione del giocatore. La grafica mozzafiato e la colonna sonora immersiva completano l'esperienza, facendo di 'Shadow Quest' un must per gli amanti del genere.",
+      "rating": "4.5"
+    },
+    {
+      "id": 2,
+      "name": "Racing Legends",
+      "genre": "Corsa",
+      "developer": "Speedster Games",
+      "publisher": "RaceMax Publishing",
+      "releaseDate": "2023-11-22",
+      "description": "Sfida i confini della velocità in circuiti leggendari.",
+      "image": "./img/racing_legends.webp",
+      "summary": "'Racing Legends' porta il giocatore nelle corse ad alta velocità su circuiti leggendari. Con una vasta scelta di auto personalizzabili e tracciati che sfidano le leggi della fisica, il gioco offre un'esperienza di corsa senza precedenti. La modalità multiplayer intensifica la competizione, permettendo sfide avvincenti contro avversari da tutto il mondo. La grafica ultrarealistica e gli effetti sonori immersivi elevano ulteriormente l'esperienza di gioco, rendendo ogni gara un'avventura emozionante.",
+      "rating": "4.7"
+    },
+    {
+      "id": 3,
+      "name": "Battlefield of Tomorrow",
+      "genre": "Sparatutto",
+      "developer": "Future Combat Studios",
+      "publisher": "Warfare Entertainment",
+      "releaseDate": "2024-05-06",
+      "description": "Combatti per la sopravvivenza in scenari futuristici pieni di azione.",
+      "image": "./img/battlefield_of_tomorrow.webp",
+      "summary": "'Battlefield of Tomorrow' immerge il giocatore in battaglie futuristiche dove strategia e rapidità sono fondamentali per la sopravvivenza. Il gioco combina elementi classici degli sparatutto con innovazioni tecnologiche, offrendo armi avanzate e gadget futuristici. Gli scenari di gioco, vari e dettagliati, vanno da città devastate da guerre a basi spaziali, offrendo sfide sempre nuove. La modalità multiplayer, ricca e ben strutturata, garantisce ore di divertimento in compagnia.",
+      "rating": "4.6"
+    },
+    {
+      "id": 4,
+      "name": "Mystery Island",
+      "genre": "Puzzle",
+      "developer": "PuzzleCraft Studios",
+      "publisher": "Island Mysteries",
+      "releaseDate": "2023-12-14",
+      "description": "Risolvi enigmi intricati per svelare i segreti di un'isola misteriosa.",
+      "image": "./img/mystery_island.webp",
+      "summary": "'Mystery Island' offre un'avventura intrigante dove il giocatore è chiamato a risolvere enigmi per svelare i segreti di un'isola misteriosa. Ogni puzzle risolto in una logica avvincente, apre la strada a scoperte inaspettate, intrecciando la storia dell'isola con quella dei personaggi. La grafica è colorata e dettagliata, rendendo ogni angolo dell'isola un piacere da esplorare. 'Mystery Island' non è solo un gioco di puzzle, ma un'avventura che stimola la mente e la fantasia.",
+      "rating": "4.8"
+    },
+    {
+      "id": 5,
+      "name": "Space Odyssey",
+      "genre": "RPG",
+      "developer": "Galactic Explorers Inc.",
+      "publisher": "Stellar Journeys",
+      "releaseDate": "2024-01-20",
+      "description": "Imbarcati in un viaggio epico attraverso la galassia in questo avvincente RPG.",
+      "image": "./img/space_odyssey.webp",
+      "summary": "'Space Odyssey' è un RPG che catapulta il giocatore in un'avventura interstellare alla scoperta di nuovi mondi. Ogni pianeta esplorato nasconde misteri, culture aliene e sfide, rendendo ogni viaggio unico. Il gioco offre una profonda personalizzazione del personaggio e della nave, strategie di combattimento variabili e una trama ricca che si adatta alle scelte del giocatore. L'universo di 'Space Odyssey' è vasto e immersivo, promettendo un'esperienza di gioco indimenticabile.",
+      "rating": "4.9"
+    },
+    {
+      "id": 6,
+      "name": "Kingdoms Fall",
+      "genre": "Strategia",
+      "developer": "Empire Minds",
+      "publisher": "Strategy Kings",
+      "releaseDate": "2023-10-05",
+      "description": "Costruisci e difendi il tuo regno in questo gioco di strategia.",
+      "image": "./img/kingdoms_fall.webp",
+      "summary": "'Kingdoms Fall' sfida il giocatore a costruire e difendere un regno in un mondo medievale fantasy. La gestione delle risorse, la costruzione di edifici e la tattica militare sono fondamentali per sopravvivere agli assalti nemici e espandere il proprio dominio. Ogni decisione influisce sul destino del regno, offrendo un'esperienza di gioco profonda e stratificata. La grafica dettagliata e i meccanismi di gioco innovativi rendono 'Kingdoms Fall' un titolo imperdibile per gli appassionati del genere.",
+      "rating": "4.4"
+    },
+    {
+      "id": 7,
+      "name": "Cyber Heist",
+      "genre": "Azione",
+      "developer": "TechRogue Studios",
+      "publisher": "Digital Thrills",
+      "releaseDate": "2024-02-27",
+      "description": "Sfida il sistema e diventa il cybercriminale più ricercato.",
+      "image": "./img/cyber_heist.webp",
+      "summary": "In 'Cyber Heist', il giocatore diventa un hacker d'élite in una corsa contro il tempo per portare a termine colpi cybernetici audaci. La trama avvincente si intreccia con enigmi che mettono alla prova la logica e l'abilità nel hacking, in scenari che vanno dalla Silicon Valley a server governativi ultra-sicuri. Ogni missione richiede strategia e adattabilità, con un gameplay che mescola azione e puzzle. 'Cyber Heist' è un'avventura ad alta tensione che sfida l'ingegno e la destrezza.",
+      "rating": "4.7"
+    },
+    {
+      "id": 8,
+      "name": "Lost Chronicles",
+      "genre": "Avventura grafica",
+      "developer": "AdventureCraft",
+      "publisher": "Tales & Legends",
+      "releaseDate": "2024-04-18",
+      "description": "Scopri storie dimenticate in un mondo pieno di misteri e avventure.",
+      "image": "./img/lost_chronicles.webp",
+      "summary": "'Lost Chronicles' invita il giocatore in un'avventura grafica dove la ricerca di storie perdute si intreccia con enigmi affascinanti. Ambientato in mondi diversi, da antiche rovine a città dimenticate, ogni scenario è un puzzle da risolvere che conduce a scoperte sorprendenti. La narrazione profonda e i personaggi ben costruiti arricchiscono l'esperienza, facendo di ogni decisione un passo verso la risoluzione del mistero. La grafica artistica e la colonna sonora evocativa completano questa avventura memorabile.",
+      "rating": "4.3"
+    },
+    {
+      "id": 9,
+      "name": "Eco Survivor",
+      "genre": "Sopravvivenza",
+      "developer": "Nature's Edge",
+      "publisher": "Green Planet Games",
+      "releaseDate": "2023-09-30",
+      "description": "Sopravvivi in ambienti ostili proteggendo la natura.",
+      "image": "./img/eco_survivor.webp",
+      "summary": "'Eco Survivor' sfida il giocatore a sopravvivere in ambienti ostili mettendo in primo piano la sostenibilità e la protezione dell'ecosistema. Attraverso la gestione delle risorse naturali, la costruzione di rifugi ecocompatibili e la difesa della fauna locale, il gioco insegna l'importanza del rispetto per l'ambiente. L'avventura si svolge in scenari vari, da foreste pluviali a deserti, ognuno con le sue sfide. 'Eco Survivor' è un'esperienza di gioco che unisce intrattenimento e consapevolezza ambientale.",
+      "rating": "4.2"
+    },
+    {
+      "id": 10,
+      "name": "Ultimate Sports Challenge",
+      "genre": "Sport",
+      "developer": "Athletic Dreams",
+      "publisher": "Champion's League",
+      "releaseDate": "2024-07-22",
+      "description": "Competi in sfide sportive estreme per diventare il campione definitivo.",
+      "image": "./img/ultimate_sports_challenge.webp",
+      "summary": "'Ultimate Sports Challenge' offre al giocatore l'opportunità di cimentarsi in una varietà di discipline sportive, da quelle classiche a estreme. Ogni sport presenta sfide uniche e la possibilità di competere a livelli mondiali. La personalizzazione dell'atleta e la strategia di allenamento sono fondamentali per il successo. Gli scenari di gioco, realistici e dettagliati, aumentano l'immersione, mentre la modalità multiplayer porta la competizione a nuovi livelli. Un gioco per veri appassionati dello sport.",
+      "rating": "4.6"
+    }
+  ]
+}
